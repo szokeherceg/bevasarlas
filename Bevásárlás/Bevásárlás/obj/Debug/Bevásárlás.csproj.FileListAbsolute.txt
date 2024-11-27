@@ -1,0 +1,20 @@
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.exe.config
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.exe
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.pdb
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.AssemblyReference.cache
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.Form1.resources
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.Properties.Resources.resources
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.GenerateResource.cache
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.CoreCompileInputs.cache
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.exe
+C:\Users\vasas\OneDrive\SZE GIVK\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.pdb
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.exe.config
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.exe
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\bin\Debug\Bevásárlás.pdb
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.AssemblyReference.cache
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.Form1.resources
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.Properties.Resources.resources
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.GenerateResource.cache
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.csproj.CoreCompileInputs.cache
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.exe
+C:\SZE GIVK\Attrecto projekt\bevasarlas\Bevásárlás\Bevásárlás\obj\Debug\Bevásárlás.pdb
